@@ -19,8 +19,8 @@ Author: huy@tableplusapp.com
 
 App screenshots:
 
-![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace.png "Workspace")
+![Welcome-screen](https://github.com/TablePlus/TablePlus-Windows/blob/master/Resources/welcome.png "Welcome screen")
+![Workspace-screen](https://github.com/TablePlus/TablePlus-Windows/blob/master/Resources/workspace.png "Workspace")
 
 TablePlus is free and has no limit on trial time, but I'd be very happy if you purchased a license to support development.
 
