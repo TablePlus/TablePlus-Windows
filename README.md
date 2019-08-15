@@ -6,7 +6,7 @@
 
 This repository is currently being used for hosting the official issue & bug tracker of TablePlus.
 
-Download: [here](https://github.com/TablePlus/TablePlus-Windows/issues/1)
+Download: [here](https://tableplus.com/windows)
  
 Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus-Windows/issues).
 
