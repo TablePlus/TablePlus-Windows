@@ -5,10 +5,10 @@
     <a href="https://tableplus.com/windows">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
     </a>
-    <a href="https://github.com/TablePlus/TablePlus-windows/issues">
+    <a href="https://github.com/TablePlus/TablePlus-Windows/issues">
         <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
     </a>
-    <a href="https://github.com/TablePlus/TablePlus-windows/projects/1">
+    <a href="https://github.com/TablePlus/TablePlus-Windows/projects/1">
         <img src="https://img.shields.io/badge/-Road%20Map-blue?style=for-the-badge" alt="Road Map">
     </a>
 </p>
@@ -37,9 +37,9 @@ Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, MariaDB, Cassandra, 
 <h3 align="middle">As excited as we are?</h3>
 <h4 align="middle">Check out some of our features:</h4>
 
-![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome-screen.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-light.png "Workspace")
-![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-dark.png "Dark Them screen")
+![Welcome-screen](https://github.com/TablePlus/TablePlus-Windows/blob/master/Resources/welcome-screen.png "Welcome screen")
+![Workspace-screen](https://github.com/TablePlus/TablePlus-Windows/blob/master/Resources/workspace-light.png "Workspace")
+![Dark-Theme-screen](https://github.com/TablePlus/TablePlus-Windows/blob/master/Resources/workspace-dark.png "Dark Them screen")
 
 <br>
 
